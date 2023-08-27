@@ -1,7 +1,7 @@
 import React from 'react'
 
 function BackEndUrl() {
-  const backendUrl = 'http://localhost:3001';
+  const backendUrl = 'https://sample-jrmsu.onrender.com';
   return backendUrl;
 }
 
